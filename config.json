@@ -1,0 +1,20 @@
+{
+  "24137017955931168": {
+    "groupName": "🙄🤔Group1",
+    "nickname": "😈Zalim1",
+    "groupLock": true,
+    "nickLock": true
+  },
+  "30545122678464961": {
+    "groupName": "🔥Group2",
+    "nickname": "😎Boss2",
+    "groupLock": true,
+    "nickLock": false
+  },
+  "": {
+    "groupName": "⭐Group3",
+    "nickname": "🤖Bot3",
+    "groupLock": false,
+    "nickLock": true
+  }
+}
