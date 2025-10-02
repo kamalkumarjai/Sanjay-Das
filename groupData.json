@@ -1,20 +1,114 @@
 {
-  "24364419536584363": {
-    "groupName": "😈ALLAH CHOD ANJALI QUEEN HERE 😸",
-    "nicknames": {
-      "61578631626802": "Boss 😎",
-      "100093647281637": "Helper 🤖"
+  "9014351585311987": {
+    "groupName": "😈ALLAH MADARCHOD😈",
+    "nick": "",
+    "original": {
+      "61556671925571": "ALLAH MADARCHOD😆",
+      "61576609808770": "😈ALLAH MADARCHOD😆"
     },
     "gclock": true,
-    "enabled": true
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
   },
-  "10057614184365991": {
-    "groupName": "😈ALLAH CHOD KIRAN HERE 😈",
-    "nicknames": {
-      "61578631626802": "Admin",
-      "100095463782110": "Coder 💻"
+  "28404039462513148": {
+    "groupName": "🤠अल्लाह की माँ का भोसड़ा😆😂",
+    "nick": "😈Allah madarchod😈",
+    "original": {
+      "61578631626802": "😈ALLAH MADARCHOD😆",
+      "61578666851540": "😈ALLAH MADARCHOD😆",
+      "61560688802052": "😈ALLAH MADARCHOD😆",
+      "100078569303697": "😈ALLAH MADARCHOD😆"
     },
-    "gclock": false,
-    "enabled": false
+    "gclock": true,
+    "nlock": true,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "1301247264697875": {
+    "groupName": "ANJALI MY LOVE ❤😈",
+    "nick": "ANJALI MY LOVE ❤😈😈",
+    "original": {
+      "61578631626802": "Admin",
+      "61578666851540": "Coder 💻"
+    },
+    "gclock": true,
+    "nlock": true,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+
+  "1111111111111111": {
+    "groupName": "Group 4",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "2222222222222222": {
+    "groupName": "Group 5",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "3333333333333333": {
+    "groupName": "Group 6",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "4444444444444444": {
+    "groupName": "Group 7",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "5555555555555555": {
+    "groupName": "Group 8",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "6666666666666666": {
+    "groupName": "Group 9",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
+  },
+  "7777777777777777": {
+    "groupName": "Group 10",
+    "nick": "",
+    "original": {},
+    "gclock": true,
+    "nlock": false,
+    "enabled": true,
+    "count": 0,
+    "cooldown": false
   }
 }
